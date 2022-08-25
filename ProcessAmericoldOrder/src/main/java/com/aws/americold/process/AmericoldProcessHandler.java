@@ -1,3 +1,8 @@
+/**
+* Class to process the americold data and format the string to a writable format
+*
+* @author Naveen Kumar
+*/
 package com.aws.americold.process;
 
 import java.util.ArrayList;
